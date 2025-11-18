@@ -3,6 +3,8 @@
 
 > QFG is short for Queer Folks Gathering a community trying to create a safe space for young-adult queer folks in Indonesia. This website project is meant to be a website for those looking for more informations about the community or simply find blog publications by the community.
 
+> For this non-profit website, we are using Void-astro theme.
+
 # Void-Astro
 
 > 🧑‍🚀 Void-Astro is a minimalistic blog starter template designed for developers and writers who appreciate simplicity and elegance. Built with [Astro](https://astro.build/), this template leverages the power of [TailwindCSS](https://tailwindcss.com/) for styling and comes with a built-in dark mode, making it aesthetically pleasing and easy on the eyes.
