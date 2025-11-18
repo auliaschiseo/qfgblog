@@ -7,6 +7,7 @@ import tailwind from '@astrojs/tailwind'
 // https://astro.build/config
 export default defineConfig({
     site: 'https://example.com',
+    adapter: '@astrojs/cloudflare',
     integrations: [mdx(), sitemap(), tailwind()],
     markdown: {
         shikiConfig: {
